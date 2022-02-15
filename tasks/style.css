@@ -1,0 +1,24 @@
+h1 {
+    color:white;
+    background:orange;
+    text-align:center;
+  }
+  body {
+     background:gray;
+    text-align:center;
+  }
+  p{
+     background:white;
+  }
+  
+  h3{
+     background:pink;
+  }
+  li{
+    font-size: 15px;
+    text-align:center;
+  }
+  
+  h4{
+    background:white;
+  }
